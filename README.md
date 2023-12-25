@@ -1,4 +1,3 @@
-# NTSVD
 Source codes of a novel low-rank tensor restoration model and a hyperspectral tensor denoising method.
 
 Our work has been submitted, and we will release the code after the manuscript is accepted.
