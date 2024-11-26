@@ -1,5 +1,5 @@
-Matlab implementations of a low-rank high-order tensor completion model, a high-order tensor RPCA model, and a hyperspectral tensor denoising method.
-<br>
+Matlab implementations of a low-rank high-order tensor completion model, a high-order tensor RPCA model, and a hyperspectral tensor denoising method.<br>
+
 
 This code relies heavily on the following excellent studies:
 
@@ -13,8 +13,8 @@ This code relies heavily on the following excellent studies:
 
 [5] Y. Chen, W. He, N. Yokoya, T.-Z. Huang, and X.-L. Zhao, “Nonlocal tensor-ring decomposition for hyperspectral image denoising,” IEEE Trans. Geosci. Remote Sens., vol. 58, no. 2, pp. 1348–1362, Feb. 2020.
 
-[6] L. Sun and B. Jeon, “A novel subspace spatial–spectral low rank learning method for hyperspectral denoising,” in Proc. IEEE Vis. Commun. Image Process. (VCIP), Dec. 2017, pp. 1–4.
-<br>
+[6] L. Sun and B. Jeon, “A novel subspace spatial–spectral low rank learning method for hyperspectral denoising,” in Proc. IEEE Vis. Commun. Image Process. (VCIP), Dec. 2017, pp. 1–4.<br>
+
 
 For more information, please refer to the paper: 
 
